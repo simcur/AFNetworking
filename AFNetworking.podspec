@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/simcur/AFNetworking'
   s.social_media_url = 'https://twitter.com/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
-  s.source   = { :git => 'https://github.com/simcur/AFNetworking', :branch => 'master' }
+  s.source   = { :git => 'https://github.com/simcur/AFNetworking.git', :branch => 'master' }
 
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.10'
